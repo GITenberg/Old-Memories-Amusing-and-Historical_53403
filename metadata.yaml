@@ -1,0 +1,25 @@
+_repo: Old-Memories-Amusing-and-Historical_53403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacPherson, Daniel, Mrs.
+    aliases:
+    - MacPherson, Charlotte Holt Gethings
+    - Macpherson, Mrs. Daniel
+    gutenberg_agent_id: '47360'
+    url: http://www.gutenberg.org/2009/agents/47360
+description: ''
+gutenberg_issued: '2016-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Québec (Québec) -- Description and travel'
+- !lcc 'F1001'
+- GITenberg
+title: 'Old Memories: Amusing and Historical'
+url: http://www.gutenberg.org/ebooks/53403
